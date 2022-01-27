@@ -9,7 +9,7 @@
 		<dc:type>documento Microsoft Word</dc:type>
 		<dc:format>.docx</dc:format>
 		<dc:identifier>Q001</dc:identifier>
-		<dc:source>"Q001.docx"</dc:source> <!-- sorgente del contenuto pubblicato nella pagina web, cioè il file word contenente l'intervista-->
+		<dc:source>"Q001.docx"</dc:source><!-- sorgente del contenuto pubblicato nella pagina web, cioè il file word contenente l'intervista-->
 		<dc:language>it</dc:language>
 		<dc:relation><i>A carte scoperte</i>, Paola Italia (a cura di), Bologna, BUP, 2021 (ISBN:9788869237799)</dc:relation>
 		<dc:coverage>Bologna</dc:coverage>
