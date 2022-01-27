@@ -1,0 +1,157 @@
+body { 
+	background-color: #99ddff;
+}
+
+#mainscreen1 {
+	opacity: 0.6;
+}
+
+#textonimage {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.centered {
+	 position: absolute;
+	 top: 50%;
+	 left: 50%;
+	 transform: translate(-50%, -50%);
+	 font-family: papyrus;
+	 font-size: 6vw;
+	 color: #006666;
+	 text-shadow: 2px 2px 5px #006666;
+}
+
+#sottotitolo {
+	 font-family: papyrus;
+	 font-size: 5vw;
+}
+
+.link {
+	color: #0099CC; /* codice di info */
+	text-decoration: underline;
+}
+
+#vocisinistra {
+	font-weight: normal;
+}
+
+footer {
+	background: lightgray;
+}
+
+#introtitle {
+	font-family: papyrus;
+	font-weight: bold;
+}
+
+#introintervista  {
+	background-color: #99ddff;
+  	border:2px solid dodgerblue;
+  	border-radius: 5px;
+  	padding: 20px;
+ 	margin: 20px;
+ 	text-align: justify;
+}
+
+.display-4 {
+	font-family: papyrus;
+	color: #006666;
+}
+
+.lead, h3, h6 {
+	color: #006666;
+}
+
+.estratto {
+	font-style: italic;
+}
+
+
+#home-tab, #profile-tab {
+	font-weight: bold;
+	background-color: #e0ebeb
+}
+
+.btn-outline-info {
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+#titpar {
+	color: #e0ebeb;
+}
+
+.rounded-circle {
+	width:250px;
+	height:250px;
+}
+
+
+.form-control {
+ padding-right: 0;
+}
+
+.logo-width {
+	width: 300px;
+}
+
+/* card */
+.card-body .form-check {
+	display: inline; 
+	margin-left: 10px;
+}
+
+.card-header b > a, .card-text > b > a, li > b > a {
+	color: #61879E;
+}
+
+.card-text > span {display: inline-block; width: 200px;}
+aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover {box-shadow: 0px 5px 40px -10px rgba(122, 144, 173, .9); -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);}
+
+/* card tool */
+.card-tool {
+	height: 350px;
+}
+
+.card-tool > .card-body > .card-text {
+	height: 215px;
+}
+
+.card-tool > .card-body > .btn {
+	display: block;
+	margin: 0 auto;
+}
+
+
+.card-tool > .card-body > h3 {
+	font-size: 1.5em;
+}
+
+/* card lista */
+.card-item .btn {
+	width: 100%;
+}
+.card-item > .card-body > .card-metadata {
+	height: 250px;
+}
+
+.card-metadata > h4 {
+	font-size: 1.2em;
+}
+
+@media screen and (max-width: 1025px) {
+    .card-item > .card-body > .card-metadata {height: 400px;}
+}
+
+#area_principale { 
+	margin-top: 2%;
+}
+

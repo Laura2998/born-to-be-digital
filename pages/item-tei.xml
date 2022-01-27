@@ -1,0 +1,246 @@
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    	<teiHeader>
+    		<fileDesc>
+    			<titleStmt>
+    				<title>Intervista ad Alessandra Sarchi</title>
+    					<respStmt>
+    					   <resp>intervistatrice</resp>
+    					   <name xml:id="LD">Laura Destratis</name>
+                           <resp>intervistata</resp>
+                           <name xml:id="AS">Alessandra Sarchi</name>
+    					</respStmt>
+    			</titleStmt>
+    			<publicationStmt>
+                    <publisher>Laura Destratis</publisher>
+                    <pubplace>Bologna</pubplace>
+                    <availability>
+    				    <licence>Licenza Creative Commons: Attribuzione - Non commerciale - Non opere derivate 3.0 Unported (CC BY-NC-ND 3.0)</licence>
+                    </availability>
+                    <date>2022</date>
+    			</publicationStmt>
+    			<sourceDesc>
+                    <p>Trascrizione dell'intervista dal documento Word compilato dall'intervistata.</p>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        
+        <text>
+            <front>
+                <div type="tytle">
+                    <p>Intervista ad Alessandra Sarchi.</p>
+                </div>
+                <div type="introduction">
+                    <p>Introduzione al questionario.</p>
+                </div>   
+            </front>
+
+    
+            <body>
+                <div type="contents">
+                    <head>Domande</head>
+                    <part id="1">
+                        <title>Dalla parte del lettore</title> 
+                        <list>
+                            <item n="1">
+                                <p type="question" name="q1">
+                                    Come lettore, cosa pensa del passaggio dal supporto cartaceo a quello 
+                                    digitale (e-book, audiolibri)? Per Lei il libro di carta è l'unica 
+                                    <q>“perfetta macchina da lettura”</q> o può essere equiparato o superato 
+                                    da altri mezzi e da essi affiancato?
+                                </p>
+                                <p type="answer" name="a1">
+                                    Amo la lettura silenziosa almeno quanto l’ascolto della parola letta 
+                                    o recitata; penso pertanto che la possibilità di fruire i testi anche 
+                                    attraverso supporti audio (audiobook e podcast) sia un arricchimento
+                                    dell’universo libro. Agli e-book preferisco il cartaceo, ma non vedo il rapporto 
+                                    fra carta e digitale in termini di competizione o superamento dell’una o dell’altro,
+                                    mi pare possano coesistere e beneficiare reciprocamente della specifica condizione 
+                                    di ciascuno. Ad esempio, se sono in viaggio mi è più comodo portarmi il kindle che 
+                                    cinque o sei libri cartacei. Viceversa è del libro tradizionale che mi avvalgo quando 
+                                    voglio dedicare un tempo più esteso: di godimento, di studio, di approfondimento del testo. 
+                                </p>
+                            </item>
+
+                            <item n="2">
+                                <p type="question" name="q2">
+                                    Lei legge libri in formato elettronico (e-book)? 
+                                    Se sì, su quale dispositivo (tablet, smartphone, e-reader) 
+                                    e come descriverebbe la Sua esperienza di lettura digitale? 
+                                </p>
+                                <p type="answer" name="a2">
+                                    Preferisco leggere su carta, ma per lavoro leggo molto anche
+                                    in formato digitale. In questo secondo caso ho notato che tendo
+                                    a memorizzare meno, e ad avere una visione d’insieme meno
+                                    nitida. Penso spesso che il libro cartaceo sia un’invenzione
+                                    geniale perché è un dispositivo spazio-temporale a misura della 
+                                    nostra attenzione; non lo erano i papiri, lunghissimi e troppo 
+                                    preziosi per essere accessibili ai più, e non lo sono i gli ebook 
+                                    perché troppo immateriali, troppo simili al flusso continuo di informazion
+                                    e dati che scorre in rete. Un libro è una piccola casa che possiamo 
+                                    scegliere di abitare o meno, ma ci contiene. La nostra mente ha bisogno
+                                    di spazializzare il sapere, l’apprendimento e perfino il piacere che ne
+                                    derivano. Ho l’impressione che il digitale non sia percepibile come uno
+                                    spazio abbastanza sicuro o duraturo. D’altronde, non si tratta solo di una
+                                    sensazione: la carta può durare millenni, il digitale ha bisogno di travasi
+                                    continui da un device all’altro, per essere ‘leggibile’ dalle nuove tecnologie
+                                    e durare. E da <persName>Orazio</persName> in poi sappiamo che se c’è 
+                                    un’aspirazione vera per la letteratura è quella di durare nel tempo.
+                                </p>
+                            </item>
+                            
+                            <item n="3"> 
+                                <p type="question" name="q3">
+                                    Crede che la Sua scrittura sia compatibile con la natura fluida 
+                                    della lettura su schermo o ritiene che la tradizionale lettura 
+                                    su carta si addica meglio alla Sua produzione letteraria?
+                                </p>
+                                <p type="answer" name="a3">
+                                    Tutti i miei romanzi sono usciti con una doppia versione cartacea
+                                    e digitale. Il numero di copie vendute e consultate in cartaceo è
+                                    imparagonabilmente più grande rispetto a quello digitale, e questo
+                                    dato è in linea con la tendenza di un mercato che in <country>Italia</country> non ha
+                                    mai visto esplodere gli e-reader, per quanto ci sia stata una crescita.
+                                    De <persName>“La notte ha la mia voce”</persName> esistono anche almeno due versioni e-book,
+                                    una prodotta dall’editore <publisher>Emons</publisher>, l’altra da un’associazione di non vedenti.
+                                    Non so dire se se la mia scrittura si adatti di più al digitale o al cartaceo,
+                                    mi piace pensare che sia fruibile in tutti i modi a disposizione oggi per i
+                                    lettori di tutte le condizioni sociali e fisiche.
+                                </p>
+                            </item>
+                        
+                            <item n="4"> 
+                                <p type="question" name="q4">
+                                    Lei ascolta audiolibri? Se sì, valuta positivamente la 
+                                    Sua esperienza da lettore-ascoltatore?
+                                </p>
+                                <p type="answer" name="a4">
+                                    Più che libri interi ascolto podcast, che hanno una durata inferiore e mi
+                                    risulta quindi più semplice seguirli. Sono una grande sostenitrice della 
+                                    parola letta e ascoltata: aiuta la concentrazione e tramite i colori della 
+                                    voce umana è molto evocativa. D’altronde i poemi omerici hanno avuto secoli 
+                                    di diffusione orale, e una delle prime gioie dell’infanzia è proprio quella 
+                                    di farsi leggere a voce alta delle storie. La lettura a voce alta è già una
+                                    forma di interpretazione del testo e quindi in teoria dovrebbe renderlo più
+                                    vivo, più accostante.
+                                </p>
+                            </item>
+                            
+                            <item n="5"> 
+                                <p type="question" name="q5">
+                                    Come si sente all’idea che un lettore possa "ascoltare" 
+                                    una Sua opera? Gradirebbe che ciò avvenisse per mezzo della 
+                                    Sua voce in qualità di autore? Se sì, perché? 
+                                </p>
+                                <p type="answer" name="a5">
+                                    Come dicevo sono molto contenta che esista un audiolibro de “La notte ha la
+                                    mia voce” e sono particolarmente felice di aver dato la mia voce al libro
+                                    insieme all’attrice <persName>Federica Fracassi</persName>, con la quale ho di recente realizzato
+                                    anche un podcast <name type="work"><hi rend="italic">“Vive!”</hi></name> in cui ho riscritto le sorti di dieci eroine tragiche
+                                    della letteratura occidentale. Ne ho avuto riscontri positivi da parte
+                                    dei lettori/ascoltatori. Penso a quante volte mi è capitato di immaginare come
+                                    fosse la voce di un autore morto e di cui non si hanno registrazioni foniche.
+                                    Avere la voce di un autore è un elemento di ricchezza in più e per me è sempre
+                                    importante come uno scrittore o una scrittrice legge se stesso, oltre che gli altri.
+                                </p>
+                            </item>
+
+                        </list>
+                    </part>
+                    <part id="2">
+                        <title>Dalla parte dello scrittore</title> 
+                        <list>
+                            <item n="6">
+                                <p type="question" name="q6">
+                                    Secondo Lei, il processo creativo è influenzato o no 
+                                    dalla riflessione sulla futura fruizione dell'opera da 
+                                    parte del lettore?
+                                </p>
+                                <p type="answer" name="a6">
+                                    Come dicevo sono molto contenta che esista un audiolibro de <title><hi rend="italic">
+                                    “La notte ha la mia voce”</hi></title>
+                                    e sono particolarmente felice di aver dato la mia voce al libro insieme all’attrice 
+                                    <persName>Federica Fracassi</persName>, con la quale ho di recente realizzato anche un podcast “Vive!” in
+                                    cui ho riscritto le sorti di dieci eroine tragiche della letteratura occidentale.
+                                    Ne ho avuto riscontri positivi da parte dei lettori/ascoltatori. Penso a quante volte
+                                    mi è capitato di immaginare come fosse la voce di un autore morto e di cui non si hanno
+                                    registrazioni foniche. Avere la voce di un autore è un elemento di ricchezza in più e
+                                    per me è sempre importante come uno scrittore o una scrittrice legge se stesso, oltre
+                                    che gli altri.
+                                </p>
+                            </item>
+
+                            <item n="7">
+                                <p type="question" name="q7">
+                                    Mentre Lei scrive, pensa già alle forme attraverso 
+                                    cui il testo verrà letto una volta pubblicato e ne 
+                                    è condizionato/a? Se sì, in che modo?
+                                </p>
+                                <p type="answer" name="a7">
+                                    Non ci penso mai, se non nel caso del reading musicale che ho scritto insieme a <persName>Barbara
+                                    Garlaschelli</persName> <title><hi rend="italic">“Sex and disabled People”<title>
+                                    e al podcast <title><hi rend="italic">“Vive!”</hi></title>. Per entrambi era chiara fin
+                                    dall’inizio la componente e la destinazione performativa e ne ho tenuto conto durante 
+                                    la scrittura. La cosa interessante è che ora una casa editrice mi ha proposto di trasformare
+                                    <title><hi rend="italic">“Vive!”<title> in un libro. Il digitale che ritorna al cartaceo,
+                                    la parola letta che ritorna silenziosa.
+                                    Sono curiosa di vedere come avverrà questo processo.
+                                </p>
+                            </item>
+                            
+                            <item n="8"> 
+                                <p type="question" name="q8">
+                                    Quanto conta per Lei il formato editoriale delle 
+                                    Sue opere pubblicate? Ritiene che la sostanza verbale 
+                                    del testo travalichi gli aspetti concreti del supporto 
+                                    o vede tra essi una correlazione?
+                                </p>
+                                <p type="answer" name="a8">
+                                    Esiste sicuramente una connessione tra contenuto e supporto, ad esempio sono abbastanza studiati
+                                    i rapporti fra copertina e libro. Ma non esagererei: spesso ho letto con enorme piacere e interesse
+                                    libri che avevano una brutta copertina e una brutta carta. Mi dà fastidio quando in un e-book saltano
+                                    le righe o ci sono altri problemi di impaginato, ma questo non limita la mia lettura.
+                                </p>
+                            </item>
+                            
+                            <item n="9"> 
+                                <p type="question" name="q9">
+                                    Dopo la transizione digitale, sia nella scrittura che 
+                                    nella fruizione, la Sua scrittura è cambiata? Se sì, come?
+                                </p>
+                                <p type="answer" name="a9">
+                                    Non ho registrato cambiamenti evidenti, perché ho sempre scritto su un computer, dunque non ho memoria
+                                    di un momento in cui la mia scrittura fosse solo manuale, anche se per lavoro, per appunti per mio piacere
+                                    personale continua a esserlo: mi piace scrivere a mano, ma non ho mai scritto un intero racconto a macchina
+                                    o a mano. 
+                                </p>
+                            </item>
+                            
+                            <item n="10"> 
+                                <p type="question" name="q10">
+                                    A Suo parere, la digitalizzazione della scrittura e della 
+                                    lettura ha cambiato le abitudini di scrittura degli autori? 
+                                    Nella produzione letteraria contemporanea riscontra qualche 
+                                    tendenza particolare legata alla rivoluzione digitale?
+                                </p>
+                                <p type="answer" name="a10">
+                                    Se penso alla quantità di refusi, versioni discordanti, ripetizioni etc.. che ci sono nelle edizioni pre-digitale,
+                                    direi che il digitale con la possibilità di rapida correzione, di ristampa e revisione del testo, possa solo aiutare
+                                    l’editoria e il libro in generale. Sulla qualità intrinseca dei testi non so se incida così tanto, mi pare che lì entrino
+                                    in gioco dinamiche di contesto culturale e storico che vanno ben oltre il supporto tecnologico. 
+                                </p>
+                            </item>
+
+                        </list>
+                    </part>
+
+                </div>
+
+            </body>
+
+            <back>
+                <div type="colophon">
+                    <p>Progetto di tesi di Laura Destratis.</p>
+                </div>
+            </back>
+        </text>
+    </TEI>
