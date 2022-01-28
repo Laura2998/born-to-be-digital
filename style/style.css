@@ -13,8 +13,8 @@ body {
 }
 
 .no-padding {
-  padding-left: 0;
-  padding-right: 0;
+  	padding-left: 0;
+  	padding-right: 0;
 }
 
 .centered {
@@ -31,6 +31,12 @@ body {
 #sottotitolo {
 	 font-family: papyrus;
 	 font-size: 5vw;
+}
+
+#iframeitalia {
+	width:250px;
+	height:200px;
+	margin-bottom: 50px;
 }
 
 .link {

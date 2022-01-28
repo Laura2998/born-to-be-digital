@@ -11,15 +11,15 @@
     					</respStmt>
     			</titleStmt>
     			<publicationStmt>
-                    <publisher>Laura Destratis</publisher>
+                    <publisher>Alma mater studiorum - Università degli studi di Bologna</publisher>
                     <pubplace>Bologna</pubplace>
                     <availability>
     				    <licence>Licenza Creative Commons: Attribuzione - Non commerciale - Non opere derivate 3.0 Unported (CC BY-NC-ND 3.0)</licence>
                     </availability>
-                    <date>2022</date>
+                    <date>2021-10-26</date>
     			</publicationStmt>
     			<sourceDesc>
-                    <p>Trascrizione dell'intervista dal documento Word compilato dall'intervistata.</p>
+                    <p>Trascrizione dell'intervista dal file pdf prodotto dall'intervistata.</p>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
@@ -44,18 +44,18 @@
                             <item n="1">
                                 <p type="question" name="q1">
                                     Come lettore, cosa pensa del passaggio dal supporto cartaceo a quello 
-                                    digitale (e-book, audiolibri)? Per Lei il libro di carta è l'unica 
+                                    digitale (<rs type="keyword" resp="LD">e-book</rs>, <rs type="keyword" resp="LD">audiolibri</rs>)? Per Lei il libro di carta è l'unica 
                                     <q>“perfetta macchina da lettura”</q> o può essere equiparato o superato 
                                     da altri mezzi e da essi affiancato?
                                 </p>
                                 <p type="answer" name="a1">
                                     Amo la lettura silenziosa almeno quanto l’ascolto della parola letta 
                                     o recitata; penso pertanto che la possibilità di fruire i testi anche 
-                                    attraverso supporti audio (audiobook e podcast) sia un arricchimento
+                                    attraverso supporti audio (audiobook e <rs type="keyword" resp="LD">podcast</rs>) sia un arricchimento
                                     dell’universo libro. Agli e-book preferisco il cartaceo, ma non vedo il rapporto 
                                     fra carta e digitale in termini di competizione o superamento dell’una o dell’altro,
                                     mi pare possano coesistere e beneficiare reciprocamente della specifica condizione 
-                                    di ciascuno. Ad esempio, se sono in viaggio mi è più comodo portarmi il kindle che 
+                                    di ciascuno. Ad esempio, se sono in viaggio mi è più comodo portarmi il <rs type="keyword" resp="LD">kindle</rs> che 
                                     cinque o sei libri cartacei. Viceversa è del libro tradizionale che mi avvalgo quando 
                                     voglio dedicare un tempo più esteso: di godimento, di studio, di approfondimento del testo. 
                                 </p>
@@ -83,7 +83,7 @@
                                     spazio abbastanza sicuro o duraturo. D’altronde, non si tratta solo di una
                                     sensazione: la carta può durare millenni, il digitale ha bisogno di travasi
                                     continui da un device all’altro, per essere ‘leggibile’ dalle nuove tecnologie
-                                    e durare. E da <persName>Orazio</persName> in poi sappiamo che se c’è 
+                                    e durare. E da <persName ref="https://viaf.org/viaf/100227522/" xml:id="Horatius Flaccus, Quintus">Orazio</persName> in poi sappiamo che se c’è 
                                     un’aspirazione vera per la letteratura è quella di durare nel tempo.
                                 </p>
                             </item>
@@ -98,10 +98,9 @@
                                     Tutti i miei romanzi sono usciti con una doppia versione cartacea
                                     e digitale. Il numero di copie vendute e consultate in cartaceo è
                                     imparagonabilmente più grande rispetto a quello digitale, e questo
-                                    dato è in linea con la tendenza di un mercato che in <country>Italia</country> non ha
-                                    mai visto esplodere gli e-reader, per quanto ci sia stata una crescita.
-                                    De <persName>“La notte ha la mia voce”</persName> esistono anche almeno due versioni e-book,
-                                    una prodotta dall’editore <publisher>Emons</publisher>, l’altra da un’associazione di non vedenti.
+                                    dato è in linea con la tendenza di un mercato che in <country ref="http://www.geonames.org/3175395/italian-republic.html" xml:id="italian-republic">Italia</country> non ha mai visto esplodere gli e-reader, per quanto ci sia stata una crescita.
+                                    De <name type="work">“La notte ha la mia voce”</name> esistono anche almeno due versioni e-book,
+                                    una prodotta dall’editore <name type="publisher">Emons</name>, l’altra da un’associazione di non vedenti.
                                     Non so dire se se la mia scrittura si adatti di più al digitale o al cartaceo,
                                     mi piace pensare che sia fruibile in tutti i modi a disposizione oggi per i
                                     lettori di tutte le condizioni sociali e fisiche.
@@ -156,8 +155,8 @@
                                     parte del lettore?
                                 </p>
                                 <p type="answer" name="a6">
-                                    Come dicevo sono molto contenta che esista un audiolibro de <title><hi rend="italic">
-                                    “La notte ha la mia voce”</hi></title>
+                                    Come dicevo sono molto contenta che esista un audiolibro de <name type="work"><hi rend="italic">
+                                    “La notte ha la mia voce”</hi></name>
                                     e sono particolarmente felice di aver dato la mia voce al libro insieme all’attrice 
                                     <persName>Federica Fracassi</persName>, con la quale ho di recente realizzato anche un podcast “Vive!” in
                                     cui ho riscritto le sorti di dieci eroine tragiche della letteratura occidentale.
@@ -177,11 +176,11 @@
                                 </p>
                                 <p type="answer" name="a7">
                                     Non ci penso mai, se non nel caso del reading musicale che ho scritto insieme a <persName>Barbara
-                                    Garlaschelli</persName> <title><hi rend="italic">“Sex and disabled People”</hi></title>
-                                    e al podcast <title><hi rend="italic">“Vive!”</hi></title>. Per entrambi era chiara fin
+                                    Garlaschelli</persName> <name type="work"><hi rend="italic">“Sex and disabled People”</hi></name>
+                                    e al podcast <name type="work"><hi rend="italic">“Vive!”</hi></name>. Per entrambi era chiara fin
                                     dall’inizio la componente e la destinazione performativa e ne ho tenuto conto durante 
                                     la scrittura. La cosa interessante è che ora una casa editrice mi ha proposto di trasformare
-                                    <title><hi rend="italic">“Vive!”</hi></title> in un libro. Il digitale che ritorna al cartaceo,
+                                    <name type="work"><hi rend="italic">“Vive!”</hi></name> in un libro. Il digitale che ritorna al cartaceo,
                                     la parola letta che ritorna silenziosa.
                                     Sono curiosa di vedere come avverrà questo processo.
                                 </p>
@@ -238,7 +237,7 @@
             </body>
 
             <back>
-                <div type="colophon">
+                <div type="signature">
                     <p>Progetto di tesi di Laura Destratis.</p>
                 </div>
             </back>

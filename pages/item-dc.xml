@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<raccolta xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="borntobedigital">
+<raccolta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="borntobedigital">
 	<intervista xml:id="intervista_sarchi">
 		<dc:title>Intervista ad Alessandra Sarchi</dc:title>
 		<dc:creator>Alessandra Sarchi</dc:creator>
 		<dc:date>2021-10-26</dc:date>
-		<dc:subject>intervista, alessandra sarchi, scrittura, lettura, digitale, fruizione, ebook, elettronica, audiolibri, libri, supporti</dc:subject>
+		<dc:subject>intervista, alessandra sarchi, scrittura, lettura, digitale, fruizione, ebook, elettronica, audiolibro, libro, supporti</dc:subject>
+		<dc:subject xsi:type="dcterms:BNI">44058</dc:subject>
+		<dc:subject xsi:type="dcterms:BNI">2691</dc:subject>
 		<dc:description>Il questionario comprende le risposte dell'autrice su temi riguardanti la correlazione tra la sua scrittura e le modalità di fruizione dell'opera nel mondo contemporaneo in cui si moltiplicano le forme di lettura alternative al tradizionale supporto cartaceo</dc:description>
-		<dc:type>documento Microsoft Word</dc:type>
-		<dc:format>.docx</dc:format>
+		<dc:date type="creation">2021-10-26</dc:date>
+		<dc:type>file pdf</dc:type>
+		<dc:format>.pdf</dc:format>
 		<dc:identifier>Q001</dc:identifier>
-		<dc:source>"Q001.docx"</dc:source><!-- sorgente del contenuto pubblicato nella pagina web, cioè il file word contenente l'intervista-->
+		<dc:source>"Q001.pdf"</dc:source><!-- sorgente del contenuto pubblicato nella pagina web, cioè il file pdf contenente l'intervista-->
 		<dc:language>it</dc:language>
 		<dc:relation><i>A carte scoperte</i>, Paola Italia (a cura di), Bologna, BUP, 2021 (ISBN:9788869237799)</dc:relation>
 		<dc:coverage>Bologna</dc:coverage>
