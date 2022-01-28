@@ -40,7 +40,7 @@ body {
 }
 
 .link {
-	color: #0099CC; /* codice di info */
+	color: #0099CC; /* codice di colore info */
 	text-decoration: underline;
 }
 
@@ -109,55 +109,4 @@ footer {
 	width: 300px;
 }
 
-/* card */
-.card-body .form-check {
-	display: inline; 
-	margin-left: 10px;
-}
-
-.card-header b > a, .card-text > b > a, li > b > a {
-	color: #61879E;
-}
-
-.card-text > span {display: inline-block; width: 200px;}
-aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover {box-shadow: 0px 5px 40px -10px rgba(122, 144, 173, .9); -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);}
-
-/* card tool */
-.card-tool {
-	height: 350px;
-}
-
-.card-tool > .card-body > .card-text {
-	height: 215px;
-}
-
-.card-tool > .card-body > .btn {
-	display: block;
-	margin: 0 auto;
-}
-
-
-.card-tool > .card-body > h3 {
-	font-size: 1.5em;
-}
-
-/* card lista */
-.card-item .btn {
-	width: 100%;
-}
-.card-item > .card-body > .card-metadata {
-	height: 250px;
-}
-
-.card-metadata > h4 {
-	font-size: 1.2em;
-}
-
-@media screen and (max-width: 1025px) {
-    .card-item > .card-body > .card-metadata {height: 400px;}
-}
-
-#area_principale { 
-	margin-top: 2%;
-}
 

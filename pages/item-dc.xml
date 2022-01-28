@@ -2,7 +2,7 @@
 <raccolta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="borntobedigital">
 	<intervista xml:id="intervista_sarchi">
 		<dc:title>Intervista ad Alessandra Sarchi</dc:title>
-		<dc:creator>Alessandra Sarchi</dc:creator>
+		<dc:creator xsi:type="dcterms:viaf" ref="http://viaf.org/viaf/71213809">Alessandra Sarchi</dc:creator>
 		<dc:date>2021-10-26</dc:date>
 		<dc:subject>intervista, alessandra sarchi, scrittura, lettura, digitale, fruizione, ebook, elettronica, audiolibro, libro, supporti</dc:subject>
 		<dc:subject xsi:type="dcterms:BNI">44058</dc:subject>
